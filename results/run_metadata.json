@@ -1,0 +1,22 @@
+{
+  "snapshot_url": "https://dblp.org/xml/dblp.xml.gz",
+  "download_date": "2026-11-19",
+  "run_utc": "2026-11-19T05:44:11.666446+00:00",
+  "years": [
+    2015,
+    2025
+  ],
+  "support_thresholds": [
+    0.001,
+    0.005,
+    0.01,
+    0.02
+  ],
+  "minimum_confidence": 0.5,
+  "temporal_support": 0.005,
+  "venue_aliases": {},
+  "python": "3.12.14",
+  "pandas": "2.3.3",
+  "numpy": "2.4.4",
+  "mlxtend": "0.25.0"
+}
