@@ -88,7 +88,7 @@ def crosscheck_with_mlxtend(db, result) -> pd.Series:
         # pandas warns about the fill value of boolean sparse columns; the data is unaffected.
         warnings.simplefilter("ignore", FutureWarning)
         onehot = pd.DataFrame.sparse.from_spmatrix(matrix, columns=list(frequent_items))
-    reference = mlxtend_fpgrowth(onehot, min_support=min_count / db.n_transactions, use_colnames=True)
+    reference = mlxtend_fpgrowth(onehot, min_support=(min_count - 0.5) / db.n_transactions, use_colnames=True)
     reference_counts = {
         tuple(sorted(itemset)): round(support * db.n_transactions)
         for itemset, support in zip(reference["itemsets"], reference["support"])
