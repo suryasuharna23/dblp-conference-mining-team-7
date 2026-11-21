@@ -1,0 +1,13 @@
+venue,rank_publications,rank_authors
+NeurIPS,1,1
+ICASSP,2,3
+IGARSS,3,5
+AAAI,4,2
+CVPR,5,6
+EMBC,6,4
+ICML,7,7
+IROS,8,8
+ICRA,9,11
+CDC,10,35
+IJCNN,11,9
+ICLR,15,10
