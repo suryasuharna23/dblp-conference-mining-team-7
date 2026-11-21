@@ -1,0 +1,25 @@
+{
+  "fields": {
+    "pages": 3771703,
+    "url": 4001131,
+    "crossref": 3998522,
+    "author": 3995049,
+    "mdate": 4001131,
+    "title": 4001131,
+    "year": 4001131,
+    "ee": 3863752,
+    "booktitle": 4000810,
+    "key": 4001131,
+    "stream": 182833,
+    "cdrom": 8482,
+    "publtype": 5997,
+    "note": 324,
+    "cite": 6370,
+    "editor": 6,
+    "publnr": 906,
+    "number": 354,
+    "volume": 21,
+    "month": 347
+  },
+  "sample_xml": "<inproceedings mdate=\"2025-01-19\" key=\"conf/dac/RoquetSRTSK24\">\n<author orcid=\"0009-0001-8458-516X\">Lucas Roquet</author>\n<author orcid=\"0000-0002-3504-9862\">Fernando Fernandes dos Santos</author>\n<author orcid=\"0000-0002-0821-1879\">Paolo Rech</author>\n<author orcid=\"0000-0003-1484-5162\">Marcello Traiola</author>\n<author orcid=\"0000-0003-4334-6418\">Olivier Sentieys</author>\n<author orcid=\"0000-0002-9293-469X\">Angeliki Kritikakou</author>\n<title>Cross-Layer Reliability Evaluation and Efficient Hardening of Large Vision Transformers Models.</title>\n<pages>291:1-291:6</pages>\n<year>2024</year>\n<booktitle>DAC</booktitle>\n<ee>https://doi.org/10.1145/3649329.3655688</ee>\n<ee>https://www.wikidata.org/entity/Q131132528</ee>\n<crossref>conf/dac/2024</crossref>\n<url>db/conf/dac/dac2024.html#RoquetSRTSK24</url>\n</inproceedings>"
+}
