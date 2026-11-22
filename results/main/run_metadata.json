@@ -1,0 +1,26 @@
+{
+  "snapshot_url": "https://dblp.org/xml/dblp.xml.gz",
+  "snapshot_date": "2026-11-16",
+  "retrieved_at": "2026-11-16 14:46 UTC",
+  "run_utc": "2026-11-22T07:58:44.164750+00:00",
+  "years": [
+    2015,
+    2025
+  ],
+  "support_thresholds": [
+    0.001,
+    0.005,
+    0.01,
+    0.02
+  ],
+  "minimum_confidence": 0.5,
+  "temporal_support": 0.005,
+  "runtime_repeats": 3,
+  "venue_aliases": {
+    "NIPS": "NeurIPS"
+  },
+  "algorithms": "Apriori, FP-Growth, dan association rules diimplementasikan sendiri di notebook",
+  "python": "3.12.10",
+  "pandas": "2.3.3",
+  "numpy": "2.4.4"
+}
