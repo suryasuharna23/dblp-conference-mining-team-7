@@ -1,0 +1,295 @@
+pasangan,status,2015-2017,2018-2020,2021-2023,2024-2025
+3DV + CVPR,baru,False,False,False,True
+AAAI + AAMAS,baru,False,False,False,True
+AAAI + BIBM,baru,False,False,False,True
+AAAI + COLING,baru,False,False,False,True
+AAAI + CVPR Workshops,baru,False,False,False,True
+AAAI + ECAI,baru,False,False,False,True
+AAAI + ICDE,baru,False,False,False,True
+AAAI + ICME,baru,False,False,False,True
+AAAI + ICRA,baru,False,False,False,True
+AAAI + IROS,baru,False,False,False,True
+AAAI + KDD (2),baru,False,False,False,True
+AAAI + LREC/COLING,baru,False,False,False,True
+AAAI + NAACL (Long Papers),baru,False,False,False,True
+AAAI + SMC,baru,False,False,False,True
+AAAI + WACV,baru,False,False,False,True
+AAAI + WWW (Companion Volume),baru,False,False,False,True
+AAMAS + NeurIPS,baru,False,False,False,True
+ACL (1) + ACM Multimedia,baru,False,False,False,True
+ACL (1) + CIKM,baru,False,False,False,True
+ACL (1) + COLING,baru,False,False,False,True
+ACL (1) + CVPR,baru,False,False,False,True
+ACL (1) + ICASSP,baru,False,False,False,True
+ACL (1) + ICCV,baru,False,False,False,True
+ACL (1) + ICML,baru,False,False,False,True
+ACL (1) + IJCAI,baru,False,False,False,True
+ACL (1) + IJCNN,baru,False,False,False,True
+ACL (1) + LREC/COLING,baru,False,False,False,True
+ACL (1) + NAACL (Findings),baru,False,False,False,True
+ACL (1) + NAACL (Long Papers),baru,False,False,False,True
+ACL (1) + NAACL-HLT,baru,False,False,False,True
+ACL (1) + SIGIR,baru,False,False,False,True
+ACL (1) + WWW,baru,False,False,False,True
+ACL (Findings) + ACM Multimedia,baru,False,False,False,True
+ACL (Findings) + CIKM,baru,False,False,False,True
+ACL (Findings) + COLING,baru,False,False,False,True
+ACL (Findings) + CVPR,baru,False,False,False,True
+ACL (Findings) + ICASSP,baru,False,False,False,True
+ACL (Findings) + ICCV,baru,False,False,False,True
+ACL (Findings) + ICLR,baru,False,False,False,True
+ACL (Findings) + ICML,baru,False,False,False,True
+ACL (Findings) + IJCAI,baru,False,False,False,True
+ACL (Findings) + IJCNN,baru,False,False,False,True
+ACL (Findings) + LREC/COLING,baru,False,False,False,True
+ACL (Findings) + NAACL (Findings),baru,False,False,False,True
+ACL (Findings) + NAACL (Long Papers),baru,False,False,False,True
+ACL (Findings) + NAACL-HLT,baru,False,False,False,True
+ACL (Findings) + WWW,baru,False,False,False,True
+ACM Multimedia + BIBM,baru,False,False,False,True
+ACM Multimedia + CIKM,baru,False,False,False,True
+ACM Multimedia + CVPR Workshops,baru,False,False,False,True
+ACM Multimedia + EMNLP,baru,False,False,False,True
+ACM Multimedia + EMNLP (Findings),baru,False,False,False,True
+ACM Multimedia + ICLR,baru,False,False,False,True
+ACM Multimedia + ICML,baru,False,False,False,True
+ACM Multimedia + ICRA,baru,False,False,False,True
+ACM Multimedia + IJCNN,baru,False,False,False,True
+ACM Multimedia + IROS,baru,False,False,False,True
+ACM Multimedia + WWW,baru,False,False,False,True
+BIBM + CVPR,baru,False,False,False,True
+BIBM + ICASSP,baru,False,False,False,True
+BIBM + ICLR,baru,False,False,False,True
+BIBM + ICME,baru,False,False,False,True
+BIBM + ICML,baru,False,False,False,True
+BIBM + IJCNN,baru,False,False,False,True
+BIBM + NeurIPS,baru,False,False,False,True
+CCS + SP,baru,False,False,False,True
+CCS + USENIX Security Symposium,baru,False,False,False,True
+CHI + Conference on Designing Interactive Systems,baru,False,False,False,True
+CHI + UIST,baru,False,False,False,True
+CIKM + EMNLP,baru,False,False,False,True
+CIKM + EMNLP (Findings),baru,False,False,False,True
+CIKM + ICLR,baru,False,False,False,True
+CIKM + ICML,baru,False,False,False,True
+CIKM + WWW (Companion Volume),baru,False,False,False,True
+COLING + EMNLP,baru,False,False,False,True
+COLING + EMNLP (Findings),baru,False,False,False,True
+COLING + ICLR,baru,False,False,False,True
+COLING + NeurIPS,baru,False,False,False,True
+CSCWD + IJCNN,baru,False,False,False,True
+CVPR + EMNLP,baru,False,False,False,True
+CVPR + EMNLP (Findings),baru,False,False,False,True
+CVPR + ICCVW,baru,False,False,False,True
+CVPR + IJCNN,baru,False,False,False,True
+CVPR + SIGGRAPH (Conference Paper Track),baru,False,False,False,True
+CVPR + SIGGRAPH Asia,baru,False,False,False,True
+CVPR Workshops + ICASSP,baru,False,False,False,True
+CVPR Workshops + ICLR,baru,False,False,False,True
+CVPR Workshops + ICML,baru,False,False,False,True
+CVPR Workshops + WACV,baru,False,False,False,True
+DAC + DATE,baru,False,False,False,True
+DAC + ICCAD,baru,False,False,False,True
+DATE + ICCAD,baru,False,False,False,True
+ECAI + IJCAI,baru,False,False,False,True
+ECAI + NeurIPS,baru,False,False,False,True
+EMNLP (Findings) + ICASSP,baru,False,False,False,True
+EMNLP (Findings) + ICCV,baru,False,False,False,True
+EMNLP (Findings) + ICML,baru,False,False,False,True
+EMNLP (Findings) + IJCAI,baru,False,False,False,True
+EMNLP (Findings) + IJCNN,baru,False,False,False,True
+EMNLP (Findings) + LREC/COLING,baru,False,False,False,True
+EMNLP (Findings) + NAACL (Findings),baru,False,False,False,True
+EMNLP (Findings) + NAACL (Long Papers),baru,False,False,False,True
+EMNLP (Findings) + SIGIR,baru,False,False,False,True
+EMNLP (Findings) + WWW,baru,False,False,False,True
+EMNLP + ICASSP,baru,False,False,False,True
+EMNLP + ICCV,baru,False,False,False,True
+EMNLP + ICML,baru,False,False,False,True
+EMNLP + IJCAI,baru,False,False,False,True
+EMNLP + IJCNN,baru,False,False,False,True
+EMNLP + LREC/COLING,baru,False,False,False,True
+EMNLP + NAACL (Findings),baru,False,False,False,True
+EMNLP + NAACL (Long Papers),baru,False,False,False,True
+EMNLP + NAACL-HLT,baru,False,False,False,True
+EMNLP + SIGIR,baru,False,False,False,True
+EMNLP + WWW,baru,False,False,False,True
+ICASSP + ICRA,baru,False,False,False,True
+ICASSP + IROS,baru,False,False,False,True
+ICASSP + SMC,baru,False,False,False,True
+ICCV + ICCVW,baru,False,False,False,True
+ICCV + ICME,baru,False,False,False,True
+ICCV + IJCNN,baru,False,False,False,True
+ICCV + IROS,baru,False,False,False,True
+ICCVW + NeurIPS,baru,False,False,False,True
+ICDE + NeurIPS,baru,False,False,False,True
+ICLR + ICME,baru,False,False,False,True
+ICLR + ICRA,baru,False,False,False,True
+ICLR + IJCNN,baru,False,False,False,True
+ICLR + IROS,baru,False,False,False,True
+ICLR + KDD (2),baru,False,False,False,True
+ICLR + NAACL (Findings),baru,False,False,False,True
+ICLR + NAACL (Long Papers),baru,False,False,False,True
+ICLR + WACV,baru,False,False,False,True
+ICLR + WWW,baru,False,False,False,True
+ICME + ICML,baru,False,False,False,True
+ICME + IJCAI,baru,False,False,False,True
+ICME + IJCNN,baru,False,False,False,True
+ICME + NeurIPS,baru,False,False,False,True
+ICML + ICRA,baru,False,False,False,True
+ICML + IJCNN,baru,False,False,False,True
+ICML + IROS,baru,False,False,False,True
+ICML + KDD (2),baru,False,False,False,True
+ICML + NAACL (Long Papers),baru,False,False,False,True
+ICML + WACV,baru,False,False,False,True
+ICML + WWW,baru,False,False,False,True
+ICML + WWW (Companion Volume),baru,False,False,False,True
+IJCAI + IJCNN,baru,False,False,False,True
+IJCAI + WWW,baru,False,False,False,True
+IJCNN + IROS,baru,False,False,False,True
+IJCNN + NeurIPS,baru,False,False,False,True
+IJCNN + SMC,baru,False,False,False,True
+INTERSPEECH + NeurIPS,baru,False,False,False,True
+IROS + ROBIO,baru,False,False,False,True
+ITSC + IV,baru,False,False,False,True
+KDD (2) + NeurIPS,baru,False,False,False,True
+LREC/COLING + NeurIPS,baru,False,False,False,True
+NAACL (Findings) + NeurIPS,baru,False,False,False,True
+NAACL (Long Papers) + NeurIPS,baru,False,False,False,True
+NAACL-HLT + NeurIPS,baru,False,False,False,True
+NeurIPS + SIGIR,baru,False,False,False,True
+NeurIPS + SMC,baru,False,False,False,True
+NeurIPS + WACV,baru,False,False,False,True
+NeurIPS + WWW (Companion Volume),baru,False,False,False,True
+SP + USENIX Security Symposium,baru,False,False,False,True
+AAAI + IJCAI,bertahan,True,True,True,True
+ACC + CDC,bertahan,True,True,True,True
+CDC + ECC,bertahan,True,True,True,True
+CHI + CHI Extended Abstracts,bertahan,True,True,True,True
+CVPR + ICCV,bertahan,True,True,True,True
+ECOC + OFC,bertahan,True,True,True,True
+EUSIPCO + ICASSP,bertahan,True,True,True,True
+GLOBECOM + ICC,bertahan,True,True,True,True
+GLOBECOM + WCNC,bertahan,True,True,True,True
+ICASSP + ICIP,bertahan,True,True,True,True
+ICASSP + INTERSPEECH,bertahan,True,True,True,True
+ICC + ICC Workshops,bertahan,True,True,True,True
+ICC + WCNC,bertahan,True,True,True,True
+ICML + NeurIPS,bertahan,True,True,True,True
+ICRA + IROS,bertahan,True,True,True,True
+AAAI + ACL (1),berubah-ubah,False,False,True,True
+AAAI + ACL (Findings),berubah-ubah,False,False,True,True
+AAAI + ACM Multimedia,berubah-ubah,False,True,True,True
+AAAI + CIKM,berubah-ubah,False,True,True,True
+AAAI + CVPR,berubah-ubah,False,True,True,True
+AAAI + EMNLP,berubah-ubah,False,False,True,True
+AAAI + EMNLP (Findings),berubah-ubah,False,False,True,True
+AAAI + ICASSP,berubah-ubah,False,False,True,True
+AAAI + ICCV,berubah-ubah,False,False,True,True
+AAAI + ICLR,berubah-ubah,False,False,True,True
+AAAI + ICML,berubah-ubah,False,True,True,True
+AAAI + IJCNN,berubah-ubah,False,False,True,True
+AAAI + KDD,berubah-ubah,False,True,True,True
+AAAI + NeurIPS,berubah-ubah,False,True,True,True
+AAAI + SIGIR,berubah-ubah,False,False,True,True
+AAAI + WWW,berubah-ubah,False,False,True,True
+AAMAS + IJCAI,berubah-ubah,False,True,False,False
+ACL (1) + ACL (Findings),berubah-ubah,False,False,True,True
+ACL (1) + EMNLP,berubah-ubah,True,False,True,True
+ACL (1) + EMNLP (Findings),berubah-ubah,False,False,True,True
+ACL (1) + EMNLP/IJCNLP (1),berubah-ubah,False,True,False,False
+ACL (1) + ICLR,berubah-ubah,False,False,True,True
+ACL (1) + NeurIPS,berubah-ubah,False,False,True,True
+ACL (Findings) + EMNLP,berubah-ubah,False,False,True,True
+ACL (Findings) + EMNLP (Findings),berubah-ubah,False,False,True,True
+ACL (Findings) + NeurIPS,berubah-ubah,False,False,True,True
+ACL + EMNLP (1),berubah-ubah,False,True,False,False
+ACL/IJCNLP (1) + EMNLP (1),berubah-ubah,False,False,True,False
+ACM Multimedia + CVPR,berubah-ubah,False,True,True,True
+ACM Multimedia + ICASSP,berubah-ubah,False,False,True,True
+ACM Multimedia + ICCV,berubah-ubah,False,False,True,True
+ACM Multimedia + ICME,berubah-ubah,False,False,True,True
+ACM Multimedia + IJCAI,berubah-ubah,False,False,True,True
+ACM Multimedia + NeurIPS,berubah-ubah,False,False,True,True
+AISTATS + ICLR,berubah-ubah,False,False,True,True
+AISTATS + ICML,berubah-ubah,False,True,True,True
+AISTATS + NeurIPS,berubah-ubah,False,True,True,True
+BMVC + CVPR,berubah-ubah,False,True,True,True
+CIKM + IJCAI,berubah-ubah,False,True,True,True
+CIKM + KDD,berubah-ubah,False,False,True,True
+CIKM + NeurIPS,berubah-ubah,False,False,True,True
+CIKM + SIGIR,berubah-ubah,False,True,True,True
+CIKM + WWW,berubah-ubah,False,False,True,True
+CVPR + CVPR Workshops,berubah-ubah,False,True,True,True
+CVPR + ICASSP,berubah-ubah,False,False,True,True
+CVPR + ICLR,berubah-ubah,False,False,True,True
+CVPR + ICME,berubah-ubah,False,False,True,True
+CVPR + ICML,berubah-ubah,False,True,True,True
+CVPR + ICRA,berubah-ubah,False,False,True,True
+CVPR + IJCAI,berubah-ubah,False,True,True,True
+CVPR + IROS,berubah-ubah,False,False,True,True
+CVPR + NeurIPS,berubah-ubah,False,True,True,True
+CVPR + WACV,berubah-ubah,False,True,True,True
+CVPR Workshops + ICCV,berubah-ubah,False,False,True,True
+CVPR Workshops + NeurIPS,berubah-ubah,False,False,True,True
+CoRL + ICRA,berubah-ubah,False,False,True,False
+EMNLP (Findings) + ICLR,berubah-ubah,False,False,True,True
+EMNLP (Findings) + NAACL-HLT,berubah-ubah,False,False,True,True
+EMNLP (Findings) + NeurIPS,berubah-ubah,False,False,True,True
+EMNLP + EMNLP (Findings),berubah-ubah,False,False,True,True
+EMNLP + ICLR,berubah-ubah,False,False,True,True
+EMNLP + NeurIPS,berubah-ubah,False,False,True,True
+GLOBECOM (Workshops) + ICC,berubah-ubah,False,False,True,False
+GLOBECOM + GLOBECOM (Workshops),berubah-ubah,False,False,True,False
+GLOBECOM + ICC Workshops,berubah-ubah,False,True,True,True
+ICASSP + ICCV,berubah-ubah,False,False,True,True
+ICASSP + ICLR,berubah-ubah,False,False,True,True
+ICASSP + ICME,berubah-ubah,False,False,True,True
+ICASSP + ICML,berubah-ubah,False,False,True,True
+ICASSP + IJCAI,berubah-ubah,False,False,True,True
+ICASSP + IJCNN,berubah-ubah,False,False,True,True
+ICASSP + Interspeech,berubah-ubah,False,False,True,False
+ICASSP + NeurIPS,berubah-ubah,False,True,True,True
+ICCV + ICLR,berubah-ubah,False,False,True,True
+ICCV + ICML,berubah-ubah,False,False,True,True
+ICCV + ICRA,berubah-ubah,False,False,True,True
+ICCV + IJCAI,berubah-ubah,False,False,True,True
+ICCV + NeurIPS,berubah-ubah,False,False,True,True
+ICCV + WACV,berubah-ubah,False,False,True,True
+ICLR (Poster) + ICML,berubah-ubah,False,True,False,False
+ICLR (Poster) + NeurIPS,berubah-ubah,False,True,False,False
+ICLR + ICML,berubah-ubah,False,True,True,True
+ICLR + IJCAI,berubah-ubah,False,False,True,True
+ICLR + KDD,berubah-ubah,False,False,True,False
+ICLR + NeurIPS,berubah-ubah,False,True,True,True
+ICML + IJCAI,berubah-ubah,False,False,True,True
+ICML + KDD,berubah-ubah,False,False,True,True
+ICRA + NeurIPS,berubah-ubah,False,False,True,True
+ICTON + OFC,berubah-ubah,True,True,False,True
+IJCAI + KDD,berubah-ubah,False,True,True,False
+IJCAI + NeurIPS,berubah-ubah,False,True,True,True
+IROS + NeurIPS,berubah-ubah,False,False,True,True
+KDD + NeurIPS,berubah-ubah,False,False,True,True
+KDD + SIGIR,berubah-ubah,False,False,True,False
+KDD + WWW,berubah-ubah,False,False,True,False
+NeurIPS + UAI,berubah-ubah,False,False,True,False
+NeurIPS + WWW,berubah-ubah,False,False,True,True
+PIMRC + WCNC,berubah-ubah,True,False,False,True
+SIGIR + WWW,berubah-ubah,False,False,True,False
+ACC + ECC,menghilang,True,False,False,False
+ACSSC + ICASSP,menghilang,True,True,False,False
+CVPR + ICIP,menghilang,True,True,True,False
+ECOC + ICTON,menghilang,True,False,False,False
+GLOBECOM + GLOBECOM Workshops,menghilang,True,False,False,False
+GLOBECOM + PIMRC,menghilang,True,False,False,False
+GLOBECOM + VTC Fall,menghilang,True,True,True,False
+GLOBECOM + VTC Spring,menghilang,True,False,False,False
+GLOBECOM Workshops + ICC,menghilang,True,False,False,False
+ICC + PIMRC,menghilang,True,False,False,False
+ICC + VTC Fall,menghilang,True,True,False,False
+ICC + VTC Spring,menghilang,True,False,False,False
+IECON + ISIE,menghilang,True,False,False,False
+ITSC + Intelligent Vehicles Symposium,menghilang,True,False,False,False
+PIMRC + VTC Fall,menghilang,True,False,False,False
+PIMRC + VTC Spring,menghilang,True,False,False,False
+VTC Fall + VTC Spring,menghilang,True,False,False,False

@@ -1,0 +1,595 @@
+rule,status,2015-2017,2018-2020,2021-2023,2024-2025
+3DV -> CVPR,baru,False,False,False,True
+AAAI | ACL (1) -> ACL (Findings),baru,False,False,False,True
+AAAI | ACL (1) -> EMNLP,baru,False,False,False,True
+AAAI | ACL (1) -> EMNLP (Findings),baru,False,False,False,True
+AAAI | ACL (1) -> ICLR,baru,False,False,False,True
+AAAI | ACL (1) -> ICML,baru,False,False,False,True
+AAAI | ACL (1) -> NeurIPS,baru,False,False,False,True
+AAAI | ACL (1) | ACL (Findings) -> EMNLP,baru,False,False,False,True
+AAAI | ACL (1) | ACL (Findings) -> NeurIPS,baru,False,False,False,True
+AAAI | ACL (1) | EMNLP -> ACL (Findings),baru,False,False,False,True
+AAAI | ACL (1) | EMNLP -> NeurIPS,baru,False,False,False,True
+AAAI | ACL (1) | ICLR -> NeurIPS,baru,False,False,False,True
+AAAI | ACL (1) | ICML -> NeurIPS,baru,False,False,False,True
+AAAI | ACL (1) | NeurIPS -> ACL (Findings),baru,False,False,False,True
+AAAI | ACL (1) | NeurIPS -> EMNLP,baru,False,False,False,True
+AAAI | ACL (1) | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | ACL (1) | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | ACL (Findings) -> ACL (1),baru,False,False,False,True
+AAAI | ACL (Findings) -> EMNLP,baru,False,False,False,True
+AAAI | ACL (Findings) -> EMNLP (Findings),baru,False,False,False,True
+AAAI | ACL (Findings) -> ICLR,baru,False,False,False,True
+AAAI | ACL (Findings) -> NeurIPS,baru,False,False,False,True
+AAAI | ACL (Findings) | EMNLP -> ACL (1),baru,False,False,False,True
+AAAI | ACL (Findings) | EMNLP -> NeurIPS,baru,False,False,False,True
+AAAI | ACL (Findings) | ICLR -> NeurIPS,baru,False,False,False,True
+AAAI | ACL (Findings) | NeurIPS -> ACL (1),baru,False,False,False,True
+AAAI | ACL (Findings) | NeurIPS -> EMNLP,baru,False,False,False,True
+AAAI | ACL (Findings) | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | ACM Multimedia -> NeurIPS,baru,False,False,False,True
+AAAI | ACM Multimedia | CVPR -> ICCV,baru,False,False,False,True
+AAAI | ACM Multimedia | CVPR -> ICLR,baru,False,False,False,True
+AAAI | ACM Multimedia | CVPR -> ICML,baru,False,False,False,True
+AAAI | ACM Multimedia | CVPR -> NeurIPS,baru,False,False,False,True
+AAAI | ACM Multimedia | ICCV -> CVPR,baru,False,False,False,True
+AAAI | ACM Multimedia | ICCV -> NeurIPS,baru,False,False,False,True
+AAAI | ACM Multimedia | ICLR -> CVPR,baru,False,False,False,True
+AAAI | ACM Multimedia | ICLR -> NeurIPS,baru,False,False,False,True
+AAAI | ACM Multimedia | ICML -> CVPR,baru,False,False,False,True
+AAAI | ACM Multimedia | ICML -> NeurIPS,baru,False,False,False,True
+AAAI | ACM Multimedia | IJCAI -> NeurIPS,baru,False,False,False,True
+AAAI | ACM Multimedia | NeurIPS -> CVPR,baru,False,False,False,True
+AAAI | ACM Multimedia | NeurIPS -> ICCV,baru,False,False,False,True
+AAAI | ACM Multimedia | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | ACM Multimedia | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | ACM Multimedia | NeurIPS -> IJCAI,baru,False,False,False,True
+AAAI | CVPR -> ACM Multimedia,baru,False,False,False,True
+AAAI | CVPR | ICASSP -> NeurIPS,baru,False,False,False,True
+AAAI | CVPR | ICCV -> ACM Multimedia,baru,False,False,False,True
+AAAI | CVPR | ICCV -> ICLR,baru,False,False,False,True
+AAAI | CVPR | ICCV -> NeurIPS,baru,False,False,False,True
+AAAI | CVPR | ICLR -> ACM Multimedia,baru,False,False,False,True
+AAAI | CVPR | ICLR -> ICCV,baru,False,False,False,True
+AAAI | CVPR | ICLR -> ICML,baru,False,False,False,True
+AAAI | CVPR | ICLR -> ICML | NeurIPS,baru,False,False,False,True
+AAAI | CVPR | ICLR -> NeurIPS,baru,False,False,False,True
+AAAI | CVPR | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+AAAI | CVPR | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | CVPR | ICML -> ACM Multimedia,baru,False,False,False,True
+AAAI | CVPR | ICML -> ICLR,baru,False,False,False,True
+AAAI | CVPR | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+AAAI | CVPR | ICML -> NeurIPS,baru,False,False,False,True
+AAAI | CVPR | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | CVPR | IJCAI -> NeurIPS,baru,False,False,False,True
+AAAI | CVPR | NeurIPS -> ACM Multimedia,baru,False,False,False,True
+AAAI | CVPR | NeurIPS -> ICCV,baru,False,False,False,True
+AAAI | CVPR | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | CVPR | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | EMNLP (Findings) -> ACL (1),baru,False,False,False,True
+AAAI | EMNLP (Findings) -> ACL (Findings),baru,False,False,False,True
+AAAI | EMNLP (Findings) -> EMNLP,baru,False,False,False,True
+AAAI | EMNLP (Findings) -> ICLR,baru,False,False,False,True
+AAAI | EMNLP (Findings) -> ICML,baru,False,False,False,True
+AAAI | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+AAAI | EMNLP -> ACL (1),baru,False,False,False,True
+AAAI | EMNLP -> ACL (Findings),baru,False,False,False,True
+AAAI | EMNLP -> EMNLP (Findings),baru,False,False,False,True
+AAAI | EMNLP -> ICLR,baru,False,False,False,True
+AAAI | EMNLP -> ICML,baru,False,False,False,True
+AAAI | EMNLP -> NeurIPS,baru,False,False,False,True
+AAAI | EMNLP | ICLR -> NeurIPS,baru,False,False,False,True
+AAAI | EMNLP | ICML -> NeurIPS,baru,False,False,False,True
+AAAI | EMNLP | NeurIPS -> ACL (1),baru,False,False,False,True
+AAAI | EMNLP | NeurIPS -> ACL (Findings),baru,False,False,False,True
+AAAI | EMNLP | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | EMNLP | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | ICASSP -> ACM Multimedia,baru,False,False,False,True
+AAAI | ICASSP -> CVPR,baru,False,False,False,True
+AAAI | ICASSP -> NeurIPS,baru,False,False,False,True
+AAAI | ICASSP | NeurIPS -> CVPR,baru,False,False,False,True
+AAAI | ICCV -> ACM Multimedia,baru,False,False,False,True
+AAAI | ICCV -> CVPR | NeurIPS,baru,False,False,False,True
+AAAI | ICCV -> ICLR,baru,False,False,False,True
+AAAI | ICCV | ICLR -> CVPR,baru,False,False,False,True
+AAAI | ICCV | ICLR -> NeurIPS,baru,False,False,False,True
+AAAI | ICCV | ICML -> NeurIPS,baru,False,False,False,True
+AAAI | ICCV | NeurIPS -> ACM Multimedia,baru,False,False,False,True
+AAAI | ICCV | NeurIPS -> CVPR,baru,False,False,False,True
+AAAI | ICCV | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | ICCV | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | ICLR -> CVPR,baru,False,False,False,True
+AAAI | ICLR -> ICML | NeurIPS,baru,False,False,False,True
+AAAI | ICLR | ICML -> CVPR,baru,False,False,False,True
+AAAI | ICLR | ICML -> CVPR | NeurIPS,baru,False,False,False,True
+AAAI | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+AAAI | ICLR | ICML | NeurIPS -> CVPR,baru,False,False,False,True
+AAAI | ICLR | IJCAI -> NeurIPS,baru,False,False,False,True
+AAAI | ICLR | NeurIPS -> CVPR,baru,False,False,False,True
+AAAI | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | ICME -> ACM Multimedia,baru,False,False,False,True
+AAAI | ICME -> CVPR,baru,False,False,False,True
+AAAI | ICME -> ICASSP,baru,False,False,False,True
+AAAI | ICME -> NeurIPS,baru,False,False,False,True
+AAAI | ICML -> CVPR,baru,False,False,False,True
+AAAI | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+AAAI | ICML | IJCAI -> NeurIPS,baru,False,False,False,True
+AAAI | ICML | NeurIPS -> CVPR,baru,False,False,False,True
+AAAI | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | IJCAI | NeurIPS -> ACM Multimedia,baru,False,False,False,True
+AAAI | IJCAI | NeurIPS -> CVPR,baru,False,False,False,True
+AAAI | IJCAI | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | IJCAI | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | IJCNN -> NeurIPS,baru,False,False,False,True
+AAAI | IROS -> NeurIPS,baru,False,False,False,True
+AAAI | NeurIPS -> CVPR,baru,False,False,False,True
+AAAI | NeurIPS -> ICLR,baru,False,False,False,True
+AAAI | NeurIPS -> ICML,baru,False,False,False,True
+AAAI | WWW -> NeurIPS,baru,False,False,False,True
+ACL (1) | ACL (Findings) -> ICLR,baru,False,False,False,True
+ACL (1) | ACL (Findings) -> NeurIPS,baru,False,False,False,True
+ACL (1) | ACL (Findings) | EMNLP (Findings) -> EMNLP,baru,False,False,False,True
+ACL (1) | ACL (Findings) | EMNLP (Findings) -> ICLR,baru,False,False,False,True
+ACL (1) | ACL (Findings) | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+ACL (1) | ACL (Findings) | EMNLP -> AAAI,baru,False,False,False,True
+ACL (1) | ACL (Findings) | EMNLP -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | ACL (Findings) | EMNLP -> ICLR,baru,False,False,False,True
+ACL (1) | ACL (Findings) | EMNLP -> NeurIPS,baru,False,False,False,True
+ACL (1) | ACL (Findings) | ICLR -> EMNLP,baru,False,False,False,True
+ACL (1) | ACL (Findings) | ICLR -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | ACL (Findings) | ICLR -> ICML,baru,False,False,False,True
+ACL (1) | ACL (Findings) | ICLR -> NeurIPS,baru,False,False,False,True
+ACL (1) | ACL (Findings) | ICML -> ICLR,baru,False,False,False,True
+ACL (1) | ACL (Findings) | ICML -> NeurIPS,baru,False,False,False,True
+ACL (1) | ACL (Findings) | NeurIPS -> AAAI,baru,False,False,False,True
+ACL (1) | ACL (Findings) | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (1) | ACL (Findings) | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | ACL (Findings) | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (1) | ACL (Findings) | NeurIPS -> ICML,baru,False,False,False,True
+ACL (1) | ACM Multimedia -> AAAI,baru,False,False,False,True
+ACL (1) | ACM Multimedia -> ACL (Findings),baru,False,False,False,True
+ACL (1) | ACM Multimedia -> NeurIPS,baru,False,False,False,True
+ACL (1) | CVPR -> AAAI,baru,False,False,False,True
+ACL (1) | CVPR -> ICLR,baru,False,False,False,True
+ACL (1) | CVPR -> ICLR | NeurIPS,baru,False,False,False,True
+ACL (1) | CVPR -> ICML,baru,False,False,False,True
+ACL (1) | CVPR -> NeurIPS,baru,False,False,False,True
+ACL (1) | CVPR | ICLR -> NeurIPS,baru,False,False,False,True
+ACL (1) | CVPR | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (1) | EMNLP (Findings) -> ACL (Findings) | EMNLP,baru,False,False,False,True
+ACL (1) | EMNLP (Findings) -> ICLR,baru,False,False,False,True
+ACL (1) | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+ACL (1) | EMNLP (Findings) | ICLR -> ACL (Findings),baru,False,False,False,True
+ACL (1) | EMNLP (Findings) | ICLR -> EMNLP,baru,False,False,False,True
+ACL (1) | EMNLP (Findings) | ICLR -> NeurIPS,baru,False,False,False,True
+ACL (1) | EMNLP (Findings) | NeurIPS -> ACL (Findings),baru,False,False,False,True
+ACL (1) | EMNLP (Findings) | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (1) | EMNLP (Findings) | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (1) | EMNLP -> ICLR,baru,False,False,False,True
+ACL (1) | EMNLP -> NeurIPS,baru,False,False,False,True
+ACL (1) | EMNLP | EMNLP (Findings) -> ACL (Findings),baru,False,False,False,True
+ACL (1) | EMNLP | EMNLP (Findings) -> ICLR,baru,False,False,False,True
+ACL (1) | EMNLP | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+ACL (1) | EMNLP | ICLR -> ACL (Findings),baru,False,False,False,True
+ACL (1) | EMNLP | ICLR -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | EMNLP | ICLR -> ICML,baru,False,False,False,True
+ACL (1) | EMNLP | ICLR -> NeurIPS,baru,False,False,False,True
+ACL (1) | EMNLP | ICML -> ICLR,baru,False,False,False,True
+ACL (1) | EMNLP | ICML -> NeurIPS,baru,False,False,False,True
+ACL (1) | EMNLP | NeurIPS -> AAAI,baru,False,False,False,True
+ACL (1) | EMNLP | NeurIPS -> ACL (Findings),baru,False,False,False,True
+ACL (1) | EMNLP | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | EMNLP | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (1) | EMNLP | NeurIPS -> ICML,baru,False,False,False,True
+ACL (1) | ICCV -> NeurIPS,baru,False,False,False,True
+ACL (1) | ICLR -> AAAI,baru,False,False,False,True
+ACL (1) | ICLR -> ACL (Findings),baru,False,False,False,True
+ACL (1) | ICLR -> EMNLP,baru,False,False,False,True
+ACL (1) | ICLR -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | ICLR -> ICML,baru,False,False,False,True
+ACL (1) | ICLR -> ICML | NeurIPS,baru,False,False,False,True
+ACL (1) | ICLR -> NeurIPS,baru,False,False,False,True
+ACL (1) | ICLR | ICML -> ACL (Findings),baru,False,False,False,True
+ACL (1) | ICLR | ICML -> EMNLP,baru,False,False,False,True
+ACL (1) | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+ACL (1) | ICLR | NeurIPS -> AAAI,baru,False,False,False,True
+ACL (1) | ICLR | NeurIPS -> ACL (Findings),baru,False,False,False,True
+ACL (1) | ICLR | NeurIPS -> CVPR,baru,False,False,False,True
+ACL (1) | ICLR | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (1) | ICLR | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+ACL (1) | ICML -> AAAI,baru,False,False,False,True
+ACL (1) | ICML -> ACL (Findings),baru,False,False,False,True
+ACL (1) | ICML -> EMNLP,baru,False,False,False,True
+ACL (1) | ICML -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | ICML -> EMNLP | NeurIPS,baru,False,False,False,True
+ACL (1) | ICML -> ICLR,baru,False,False,False,True
+ACL (1) | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+ACL (1) | ICML -> NeurIPS,baru,False,False,False,True
+ACL (1) | ICML | NeurIPS -> AAAI,baru,False,False,False,True
+ACL (1) | ICML | NeurIPS -> ACL (Findings),baru,False,False,False,True
+ACL (1) | ICML | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (1) | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (1) | NAACL (Long Papers) -> EMNLP,baru,False,False,False,True
+ACL (1) | NeurIPS -> AAAI,baru,False,False,False,True
+ACL (1) | NeurIPS -> ACL (Findings),baru,False,False,False,True
+ACL (1) | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (1) | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+ACL (1) | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (1) | NeurIPS -> ICML,baru,False,False,False,True
+ACL (Findings) | ACM Multimedia -> AAAI,baru,False,False,False,True
+ACL (Findings) | ACM Multimedia -> ACL (1),baru,False,False,False,True
+ACL (Findings) | ACM Multimedia -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | CVPR -> AAAI,baru,False,False,False,True
+ACL (Findings) | CVPR -> ICLR,baru,False,False,False,True
+ACL (Findings) | CVPR -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) -> ACL (1) | EMNLP,baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) -> ICLR,baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) | ICLR -> ACL (1),baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) | ICLR -> EMNLP,baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) | ICLR -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) | NeurIPS -> ACL (1),baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (Findings) | EMNLP (Findings) | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (Findings) | EMNLP -> ICLR,baru,False,False,False,True
+ACL (Findings) | EMNLP -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | EMNLP | EMNLP (Findings) -> ACL (1),baru,False,False,False,True
+ACL (Findings) | EMNLP | EMNLP (Findings) -> ICLR,baru,False,False,False,True
+ACL (Findings) | EMNLP | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | EMNLP | ICLR -> ACL (1),baru,False,False,False,True
+ACL (Findings) | EMNLP | ICLR -> EMNLP (Findings),baru,False,False,False,True
+ACL (Findings) | EMNLP | ICLR -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | EMNLP | ICML -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | EMNLP | NeurIPS -> AAAI,baru,False,False,False,True
+ACL (Findings) | EMNLP | NeurIPS -> ACL (1),baru,False,False,False,True
+ACL (Findings) | EMNLP | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+ACL (Findings) | EMNLP | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (Findings) | EMNLP | NeurIPS -> ICML,baru,False,False,False,True
+ACL (Findings) | ICASSP -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICLR -> AAAI,baru,False,False,False,True
+ACL (Findings) | ICLR -> ACL (1),baru,False,False,False,True
+ACL (Findings) | ICLR -> ACL (1) | NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICLR -> EMNLP,baru,False,False,False,True
+ACL (Findings) | ICLR -> EMNLP (Findings),baru,False,False,False,True
+ACL (Findings) | ICLR -> EMNLP | NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICLR -> ICML,baru,False,False,False,True
+ACL (Findings) | ICLR -> ICML | NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICLR -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICLR | ICML -> ACL (1),baru,False,False,False,True
+ACL (Findings) | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICLR | NeurIPS -> AAAI,baru,False,False,False,True
+ACL (Findings) | ICLR | NeurIPS -> ACL (1),baru,False,False,False,True
+ACL (Findings) | ICLR | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (Findings) | ICLR | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+ACL (Findings) | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+ACL (Findings) | ICML -> AAAI,baru,False,False,False,True
+ACL (Findings) | ICML -> ACL (1),baru,False,False,False,True
+ACL (Findings) | ICML -> ACL (1) | NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICML -> EMNLP,baru,False,False,False,True
+ACL (Findings) | ICML -> EMNLP (Findings),baru,False,False,False,True
+ACL (Findings) | ICML -> EMNLP | NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICML -> ICLR,baru,False,False,False,True
+ACL (Findings) | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICML -> NeurIPS,baru,False,False,False,True
+ACL (Findings) | ICML | NeurIPS -> ACL (1),baru,False,False,False,True
+ACL (Findings) | ICML | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (Findings) | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (Findings) | NeurIPS -> AAAI,baru,False,False,False,True
+ACL (Findings) | NeurIPS -> ACL (1),baru,False,False,False,True
+ACL (Findings) | NeurIPS -> EMNLP,baru,False,False,False,True
+ACL (Findings) | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+ACL (Findings) | NeurIPS -> ICLR,baru,False,False,False,True
+ACL (Findings) | NeurIPS -> ICML,baru,False,False,False,True
+ACM Multimedia | CVPR | ICCV -> AAAI,baru,False,False,False,True
+ACM Multimedia | CVPR | ICCV -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | CVPR | ICLR -> AAAI,baru,False,False,False,True
+ACM Multimedia | CVPR | ICLR -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | CVPR | ICML -> AAAI,baru,False,False,False,True
+ACM Multimedia | CVPR | ICML -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | CVPR | NeurIPS -> AAAI,baru,False,False,False,True
+ACM Multimedia | CVPR | NeurIPS -> ICCV,baru,False,False,False,True
+ACM Multimedia | CVPR | NeurIPS -> ICLR,baru,False,False,False,True
+ACM Multimedia | CVPR | NeurIPS -> ICML,baru,False,False,False,True
+ACM Multimedia | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | EMNLP -> AAAI,baru,False,False,False,True
+ACM Multimedia | EMNLP -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICASSP -> AAAI,baru,False,False,False,True
+ACM Multimedia | ICASSP -> CVPR,baru,False,False,False,True
+ACM Multimedia | ICASSP -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICCV -> AAAI,baru,False,False,False,True
+ACM Multimedia | ICCV -> AAAI | CVPR,baru,False,False,False,True
+ACM Multimedia | ICCV -> CVPR | NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICCV -> ICLR,baru,False,False,False,True
+ACM Multimedia | ICCV -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICCV | NeurIPS -> AAAI,baru,False,False,False,True
+ACM Multimedia | ICCV | NeurIPS -> CVPR,baru,False,False,False,True
+ACM Multimedia | ICLR -> AAAI,baru,False,False,False,True
+ACM Multimedia | ICLR -> AAAI | CVPR,baru,False,False,False,True
+ACM Multimedia | ICLR -> AAAI | NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICLR -> CVPR,baru,False,False,False,True
+ACM Multimedia | ICLR -> CVPR | NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICLR -> ICCV,baru,False,False,False,True
+ACM Multimedia | ICLR -> ICML,baru,False,False,False,True
+ACM Multimedia | ICLR -> ICML | NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICLR -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICLR | NeurIPS -> AAAI,baru,False,False,False,True
+ACM Multimedia | ICLR | NeurIPS -> CVPR,baru,False,False,False,True
+ACM Multimedia | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+ACM Multimedia | ICME -> AAAI,baru,False,False,False,True
+ACM Multimedia | ICME -> CVPR,baru,False,False,False,True
+ACM Multimedia | ICME -> ICASSP,baru,False,False,False,True
+ACM Multimedia | ICME -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICML -> AAAI,baru,False,False,False,True
+ACM Multimedia | ICML -> AAAI | CVPR,baru,False,False,False,True
+ACM Multimedia | ICML -> AAAI | NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICML -> CVPR,baru,False,False,False,True
+ACM Multimedia | ICML -> CVPR | NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICML -> ICLR,baru,False,False,False,True
+ACM Multimedia | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICML -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | ICML | NeurIPS -> AAAI,baru,False,False,False,True
+ACM Multimedia | ICML | NeurIPS -> CVPR,baru,False,False,False,True
+ACM Multimedia | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+ACM Multimedia | IJCAI -> AAAI,baru,False,False,False,True
+ACM Multimedia | IJCAI -> AAAI | NeurIPS,baru,False,False,False,True
+ACM Multimedia | IJCAI -> CVPR,baru,False,False,False,True
+ACM Multimedia | IJCAI -> NeurIPS,baru,False,False,False,True
+ACM Multimedia | IJCAI | NeurIPS -> AAAI,baru,False,False,False,True
+ACM Multimedia | NeurIPS -> AAAI,baru,False,False,False,True
+ACM Multimedia | NeurIPS -> ICLR,baru,False,False,False,True
+ACM Multimedia | NeurIPS -> ICML,baru,False,False,False,True
+AISTATS | ICLR -> ICML,baru,False,False,False,True
+AISTATS | ICLR -> NeurIPS,baru,False,False,False,True
+AISTATS | ICML -> ICLR,baru,False,False,False,True
+AISTATS | NeurIPS -> ICLR,baru,False,False,False,True
+CVPR Workshops | NeurIPS -> CVPR,baru,False,False,False,True
+CVPR | CVPR Workshops -> NeurIPS,baru,False,False,False,True
+CVPR | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+CVPR | EMNLP -> AAAI,baru,False,False,False,True
+CVPR | EMNLP -> ICLR,baru,False,False,False,True
+CVPR | EMNLP -> ICML,baru,False,False,False,True
+CVPR | EMNLP -> NeurIPS,baru,False,False,False,True
+CVPR | ICASSP -> AAAI,baru,False,False,False,True
+CVPR | ICASSP -> ACM Multimedia,baru,False,False,False,True
+CVPR | ICASSP -> NeurIPS,baru,False,False,False,True
+CVPR | ICASSP | NeurIPS -> AAAI,baru,False,False,False,True
+CVPR | ICCV -> AAAI,baru,False,False,False,True
+CVPR | ICCV -> ICLR,baru,False,False,False,True
+CVPR | ICCV | ICLR -> AAAI,baru,False,False,False,True
+CVPR | ICCV | ICLR -> ICML,baru,False,False,False,True
+CVPR | ICCV | ICLR -> NeurIPS,baru,False,False,False,True
+CVPR | ICCV | ICML -> ICLR,baru,False,False,False,True
+CVPR | ICCV | ICML -> NeurIPS,baru,False,False,False,True
+CVPR | ICCV | NeurIPS -> AAAI,baru,False,False,False,True
+CVPR | ICCV | NeurIPS -> ICLR,baru,False,False,False,True
+CVPR | ICCV | NeurIPS -> ICML,baru,False,False,False,True
+CVPR | ICLR -> AAAI,baru,False,False,False,True
+CVPR | ICLR -> ICML,baru,False,False,False,True
+CVPR | ICLR | ICML -> AAAI,baru,False,False,False,True
+CVPR | ICLR | ICML -> AAAI | NeurIPS,baru,False,False,False,True
+CVPR | ICLR | ICML -> ICCV,baru,False,False,False,True
+CVPR | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+CVPR | ICLR | ICML | NeurIPS -> AAAI,baru,False,False,False,True
+CVPR | ICLR | NeurIPS -> AAAI,baru,False,False,False,True
+CVPR | ICLR | NeurIPS -> ICCV,baru,False,False,False,True
+CVPR | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+CVPR | ICME -> AAAI,baru,False,False,False,True
+CVPR | ICME -> ACM Multimedia,baru,False,False,False,True
+CVPR | ICME -> NeurIPS,baru,False,False,False,True
+CVPR | ICML -> AAAI,baru,False,False,False,True
+CVPR | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+CVPR | ICML | NeurIPS -> AAAI,baru,False,False,False,True
+CVPR | ICML | NeurIPS -> ICCV,baru,False,False,False,True
+CVPR | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+CVPR | ICRA -> IROS,baru,False,False,False,True
+CVPR | ICRA -> NeurIPS,baru,False,False,False,True
+CVPR | IJCAI -> AAAI,baru,False,False,False,True
+CVPR | IJCAI -> AAAI | NeurIPS,baru,False,False,False,True
+CVPR | IJCAI -> ACM Multimedia,baru,False,False,False,True
+CVPR | IJCAI -> ICML,baru,False,False,False,True
+CVPR | IJCAI -> NeurIPS,baru,False,False,False,True
+CVPR | IJCAI | NeurIPS -> AAAI,baru,False,False,False,True
+CVPR | IROS -> ICRA,baru,False,False,False,True
+CVPR | IROS -> NeurIPS,baru,False,False,False,True
+CVPR | NeurIPS -> AAAI,baru,False,False,False,True
+CVPR | NeurIPS -> ICLR,baru,False,False,False,True
+CVPR | WACV -> NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICLR -> AAAI,baru,False,False,False,True
+EMNLP (Findings) | ICLR -> ACL (1),baru,False,False,False,True
+EMNLP (Findings) | ICLR -> ACL (1) | NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICLR -> ACL (Findings),baru,False,False,False,True
+EMNLP (Findings) | ICLR -> EMNLP,baru,False,False,False,True
+EMNLP (Findings) | ICLR -> EMNLP | NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICLR -> ICML,baru,False,False,False,True
+EMNLP (Findings) | ICLR -> ICML | NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICLR -> NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICLR | NeurIPS -> ACL (1),baru,False,False,False,True
+EMNLP (Findings) | ICLR | NeurIPS -> ACL (Findings),baru,False,False,False,True
+EMNLP (Findings) | ICLR | NeurIPS -> EMNLP,baru,False,False,False,True
+EMNLP (Findings) | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+EMNLP (Findings) | ICML -> AAAI,baru,False,False,False,True
+EMNLP (Findings) | ICML -> ACL (1),baru,False,False,False,True
+EMNLP (Findings) | ICML -> ACL (Findings),baru,False,False,False,True
+EMNLP (Findings) | ICML -> EMNLP,baru,False,False,False,True
+EMNLP (Findings) | ICML -> EMNLP | NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICML -> ICLR,baru,False,False,False,True
+EMNLP (Findings) | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICML -> NeurIPS,baru,False,False,False,True
+EMNLP (Findings) | ICML | NeurIPS -> EMNLP,baru,False,False,False,True
+EMNLP (Findings) | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+EMNLP (Findings) | NeurIPS -> AAAI,baru,False,False,False,True
+EMNLP (Findings) | NeurIPS -> ACL (1),baru,False,False,False,True
+EMNLP (Findings) | NeurIPS -> ACL (Findings),baru,False,False,False,True
+EMNLP (Findings) | NeurIPS -> EMNLP,baru,False,False,False,True
+EMNLP (Findings) | NeurIPS -> ICLR,baru,False,False,False,True
+EMNLP (Findings) | NeurIPS -> ICML,baru,False,False,False,True
+EMNLP | EMNLP (Findings) -> ICLR,baru,False,False,False,True
+EMNLP | EMNLP (Findings) -> NeurIPS,baru,False,False,False,True
+EMNLP | EMNLP (Findings) | ICLR -> ACL (1),baru,False,False,False,True
+EMNLP | EMNLP (Findings) | ICLR -> ACL (Findings),baru,False,False,False,True
+EMNLP | EMNLP (Findings) | ICLR -> NeurIPS,baru,False,False,False,True
+EMNLP | EMNLP (Findings) | ICML -> NeurIPS,baru,False,False,False,True
+EMNLP | EMNLP (Findings) | NeurIPS -> ACL (1),baru,False,False,False,True
+EMNLP | EMNLP (Findings) | NeurIPS -> ACL (Findings),baru,False,False,False,True
+EMNLP | EMNLP (Findings) | NeurIPS -> ICLR,baru,False,False,False,True
+EMNLP | EMNLP (Findings) | NeurIPS -> ICML,baru,False,False,False,True
+EMNLP | ICCV -> NeurIPS,baru,False,False,False,True
+EMNLP | ICLR -> ACL (1),baru,False,False,False,True
+EMNLP | ICLR -> ACL (Findings),baru,False,False,False,True
+EMNLP | ICLR -> EMNLP (Findings),baru,False,False,False,True
+EMNLP | ICLR -> ICML,baru,False,False,False,True
+EMNLP | ICLR -> ICML | NeurIPS,baru,False,False,False,True
+EMNLP | ICLR -> NeurIPS,baru,False,False,False,True
+EMNLP | ICLR | ICML -> ACL (1),baru,False,False,False,True
+EMNLP | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+EMNLP | ICLR | NeurIPS -> AAAI,baru,False,False,False,True
+EMNLP | ICLR | NeurIPS -> ACL (1),baru,False,False,False,True
+EMNLP | ICLR | NeurIPS -> ACL (Findings),baru,False,False,False,True
+EMNLP | ICLR | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+EMNLP | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+EMNLP | ICML -> AAAI,baru,False,False,False,True
+EMNLP | ICML -> ACL (1),baru,False,False,False,True
+EMNLP | ICML -> ACL (Findings),baru,False,False,False,True
+EMNLP | ICML -> EMNLP (Findings),baru,False,False,False,True
+EMNLP | ICML -> ICLR,baru,False,False,False,True
+EMNLP | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+EMNLP | ICML -> NeurIPS,baru,False,False,False,True
+EMNLP | ICML | NeurIPS -> AAAI,baru,False,False,False,True
+EMNLP | ICML | NeurIPS -> ACL (1),baru,False,False,False,True
+EMNLP | ICML | NeurIPS -> ACL (Findings),baru,False,False,False,True
+EMNLP | ICML | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+EMNLP | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+EMNLP | NAACL (Long Papers) -> ACL (1),baru,False,False,False,True
+EMNLP | NeurIPS -> ACL (1),baru,False,False,False,True
+EMNLP | NeurIPS -> ACL (Findings),baru,False,False,False,True
+EMNLP | NeurIPS -> EMNLP (Findings),baru,False,False,False,True
+EMNLP | NeurIPS -> ICLR,baru,False,False,False,True
+EMNLP | NeurIPS -> ICML,baru,False,False,False,True
+ICASSP | ICCV -> AAAI,baru,False,False,False,True
+ICASSP | ICCV -> CVPR,baru,False,False,False,True
+ICASSP | ICCV -> NeurIPS,baru,False,False,False,True
+ICASSP | ICLR -> AAAI,baru,False,False,False,True
+ICASSP | ICLR -> CVPR,baru,False,False,False,True
+ICASSP | ICLR -> ICML,baru,False,False,False,True
+ICASSP | ICLR -> NeurIPS,baru,False,False,False,True
+ICASSP | ICME -> AAAI,baru,False,False,False,True
+ICASSP | ICML -> AAAI,baru,False,False,False,True
+ICASSP | ICML -> CVPR,baru,False,False,False,True
+ICASSP | ICML -> ICLR,baru,False,False,False,True
+ICASSP | ICML -> NeurIPS,baru,False,False,False,True
+ICASSP | IJCAI -> AAAI,baru,False,False,False,True
+ICASSP | IJCAI -> NeurIPS,baru,False,False,False,True
+ICASSP | NeurIPS -> AAAI,baru,False,False,False,True
+ICASSP | NeurIPS -> CVPR,baru,False,False,False,True
+ICASSP | NeurIPS -> ICLR,baru,False,False,False,True
+ICCV | ICLR -> AAAI,baru,False,False,False,True
+ICCV | ICLR -> CVPR | NeurIPS,baru,False,False,False,True
+ICCV | ICLR -> ICML,baru,False,False,False,True
+ICCV | ICLR | ICML -> CVPR,baru,False,False,False,True
+ICCV | ICLR | ICML -> NeurIPS,baru,False,False,False,True
+ICCV | ICLR | NeurIPS -> AAAI,baru,False,False,False,True
+ICCV | ICLR | NeurIPS -> CVPR,baru,False,False,False,True
+ICCV | ICLR | NeurIPS -> ICML,baru,False,False,False,True
+ICCV | ICML -> AAAI,baru,False,False,False,True
+ICCV | ICML -> CVPR,baru,False,False,False,True
+ICCV | ICML -> CVPR | ICLR,baru,False,False,False,True
+ICCV | ICML -> CVPR | NeurIPS,baru,False,False,False,True
+ICCV | ICML -> ICLR,baru,False,False,False,True
+ICCV | ICML -> ICLR | NeurIPS,baru,False,False,False,True
+ICCV | ICML -> NeurIPS,baru,False,False,False,True
+ICCV | ICML | NeurIPS -> AAAI,baru,False,False,False,True
+ICCV | ICML | NeurIPS -> CVPR,baru,False,False,False,True
+ICCV | ICML | NeurIPS -> ICLR,baru,False,False,False,True
+ICCV | NeurIPS -> AAAI,baru,False,False,False,True
+ICCV | NeurIPS -> ICLR,baru,False,False,False,True
+ICLR | ICML | IJCAI -> NeurIPS,baru,False,False,False,True
+ICLR | ICRA -> NeurIPS,baru,False,False,False,True
+ICLR | IJCAI -> AAAI,baru,False,False,False,True
+ICLR | IJCAI -> AAAI | NeurIPS,baru,False,False,False,True
+ICLR | IJCAI -> ICML,baru,False,False,False,True
+ICLR | IJCAI -> ICML | NeurIPS,baru,False,False,False,True
+ICLR | IJCAI -> NeurIPS,baru,False,False,False,True
+ICLR | IJCAI | NeurIPS -> AAAI,baru,False,False,False,True
+ICLR | IJCAI | NeurIPS -> ICML,baru,False,False,False,True
+ICLR | IROS -> NeurIPS,baru,False,False,False,True
+ICLR | NAACL (Long Papers) -> NeurIPS,baru,False,False,False,True
+ICME | NeurIPS -> AAAI,baru,False,False,False,True
+ICME | NeurIPS -> ACM Multimedia,baru,False,False,False,True
+ICME | NeurIPS -> CVPR,baru,False,False,False,True
+ICME | NeurIPS -> ICASSP,baru,False,False,False,True
+ICML | IJCAI -> AAAI,baru,False,False,False,True
+ICML | IJCAI -> AAAI | NeurIPS,baru,False,False,False,True
+ICML | IJCAI -> CVPR,baru,False,False,False,True
+ICML | IJCAI -> ICLR,baru,False,False,False,True
+ICML | IJCAI -> ICLR | NeurIPS,baru,False,False,False,True
+ICML | IJCAI -> NeurIPS,baru,False,False,False,True
+ICML | IJCAI | NeurIPS -> AAAI,baru,False,False,False,True
+ICML | IJCAI | NeurIPS -> ICLR,baru,False,False,False,True
+ICRA | NeurIPS -> CVPR,baru,False,False,False,True
+ICRA | NeurIPS -> ICLR,baru,False,False,False,True
+ICRA | NeurIPS -> IROS,baru,False,False,False,True
+IJCAI | NeurIPS -> CVPR,baru,False,False,False,True
+IJCAI | NeurIPS -> ICLR,baru,False,False,False,True
+IJCAI | NeurIPS -> ICML,baru,False,False,False,True
+IJCNN | NeurIPS -> AAAI,baru,False,False,False,True
+IROS | NeurIPS -> AAAI,baru,False,False,False,True
+IROS | NeurIPS -> CVPR,baru,False,False,False,True
+IROS | NeurIPS -> ICLR,baru,False,False,False,True
+IROS | NeurIPS -> ICRA,baru,False,False,False,True
+NAACL (Long Papers) | NeurIPS -> ICLR,baru,False,False,False,True
+NeurIPS | WACV -> CVPR,baru,False,False,False,True
+NeurIPS | WWW -> AAAI,baru,False,False,False,True
+SIGGRAPH (Conference Paper Track) -> CVPR,baru,False,False,False,True
+SIGGRAPH Asia -> CVPR,baru,False,False,False,True
+UIST -> CHI,baru,False,False,False,True
+ECOC -> OFC,bertahan,True,True,True,True
+ICCV -> CVPR,bertahan,True,True,True,True
+ICML -> NeurIPS,bertahan,True,True,True,True
+AAAI | ACM Multimedia -> CVPR,berubah-ubah,False,False,True,True
+AAAI | CVPR -> ICCV,berubah-ubah,False,False,True,False
+AAAI | CVPR -> NeurIPS,berubah-ubah,False,False,True,True
+AAAI | ICCV -> CVPR,berubah-ubah,False,False,True,True
+AAAI | ICCV -> NeurIPS,berubah-ubah,False,False,True,True
+AAAI | ICLR -> ICML,berubah-ubah,False,False,True,True
+AAAI | ICLR -> NeurIPS,berubah-ubah,False,False,True,True
+AAAI | ICML -> ICLR,berubah-ubah,False,False,True,True
+AAAI | ICML -> NeurIPS,berubah-ubah,False,False,True,True
+AAAI | IJCAI -> NeurIPS,berubah-ubah,False,False,True,True
+ACL (1) | ACL (Findings) -> EMNLP,berubah-ubah,False,False,True,True
+ACL (1) | ACL (Findings) -> EMNLP (Findings),berubah-ubah,False,False,True,True
+ACL (1) | EMNLP (Findings) -> ACL (Findings),berubah-ubah,False,False,True,True
+ACL (1) | EMNLP (Findings) -> EMNLP,berubah-ubah,False,False,True,True
+ACL (1) | EMNLP -> ACL (Findings),berubah-ubah,False,False,True,True
+ACL (1) | EMNLP -> EMNLP (Findings),berubah-ubah,False,False,True,True
+ACL (Findings) | EMNLP (Findings) -> ACL (1),berubah-ubah,False,False,True,True
+ACL (Findings) | EMNLP (Findings) -> EMNLP,berubah-ubah,False,False,True,True
+ACL (Findings) | EMNLP -> ACL (1),berubah-ubah,False,False,True,True
+ACL (Findings) | EMNLP -> EMNLP (Findings),berubah-ubah,False,False,True,True
+ACM Multimedia | CVPR -> AAAI,berubah-ubah,False,False,True,True
+ACM Multimedia | CVPR -> ICCV,berubah-ubah,False,False,True,False
+ACM Multimedia | CVPR -> NeurIPS,berubah-ubah,False,False,True,True
+ACM Multimedia | ICCV -> CVPR,berubah-ubah,False,False,True,True
+ACM Multimedia | NeurIPS -> CVPR,berubah-ubah,False,False,True,True
+AISTATS -> NeurIPS,berubah-ubah,False,True,True,True
+AISTATS | ICML -> NeurIPS,berubah-ubah,False,False,True,True
+AISTATS | NeurIPS -> ICML,berubah-ubah,False,False,True,True
+CVPR | ICCV -> NeurIPS,berubah-ubah,False,False,True,True
+CVPR | ICLR -> ICCV,berubah-ubah,False,False,True,True
+CVPR | ICLR -> NeurIPS,berubah-ubah,False,False,True,True
+CVPR | ICML -> ICLR,berubah-ubah,False,False,True,True
+CVPR | ICML -> NeurIPS,berubah-ubah,False,False,True,True
+CVPR | NeurIPS -> ICCV,berubah-ubah,False,False,True,False
+EMNLP | EMNLP (Findings) -> ACL (1),berubah-ubah,False,False,True,True
+EMNLP | EMNLP (Findings) -> ACL (Findings),berubah-ubah,False,False,True,True
+ICCV | ICLR -> CVPR,berubah-ubah,False,False,True,True
+ICCV | ICLR -> NeurIPS,berubah-ubah,False,False,True,True
+ICCV | NeurIPS -> CVPR,berubah-ubah,False,False,True,True
+ICLR (Poster) -> NeurIPS,berubah-ubah,False,True,False,False
+ICLR -> NeurIPS,berubah-ubah,False,True,True,True
+ICLR | ICML -> NeurIPS,berubah-ubah,False,False,True,True
+ICLR | NeurIPS -> ICML,berubah-ubah,False,False,True,True
+ICML | NeurIPS -> ICLR,berubah-ubah,False,False,True,True
+IJCAI | NeurIPS -> AAAI,berubah-ubah,False,False,True,True
